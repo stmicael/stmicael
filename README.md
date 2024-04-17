@@ -1,7 +1,5 @@
 ### Hi there 👋
 
 Nice to meet you
-
-i am Emeka Mbaoma Michael
-
-i am a Frontend developer inview
+I am Emeka Mbaoma Michael
+I am a Frontend developer inview
